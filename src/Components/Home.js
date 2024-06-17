@@ -22,7 +22,7 @@ export const Home = () => {
             harum dicta. Quia consequuntur
           </p>
           <button className="secondary-button">
-            Order Now <FiArrowRight />
+            Order Now NOWWW <FiArrowRight />
           </button>
         </div>
         <div className="home-image-container">
